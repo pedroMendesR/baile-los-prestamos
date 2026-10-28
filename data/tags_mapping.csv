@@ -1,0 +1,120 @@
+old_tag,old_freq,new_tag,new_freq,correct_mapping
+hip-hop,48887,hip hop,179889,x
+west coast hip hop,10124,east coast hip hop,24094,
+electronica,7379,electronic,113346,x
+west coast rap,6586,east coast rap,13788,
+breaks,5852,break,8904,x
+soundtracks,5130,soundtrack,17766,x
+rock & roll,3669,rock and roll,5023,x
+hiphop,2878,hip hop,179889,x
+synthpop,2751,synth-pop,17446,x
+dance hall,2430,dancehall,4504,x
+alternative hip-hop,2085,alternative hip hop,6699,x
+hip-hop rap,1635,hip hop rap,17165,x
+trip-hop,1309,trip hop,8979,x
+blues-rock,1196,blues rock,4657,x
+synth pop,1196,synth-pop,17446,x
+adult contemporary r&b,1123,adult contemporary,5883,
+rock roll,1095,rock and roll,5023,x
+instrumentalhiphop,952,instrumental hip hop,3017,x
+sampled,816,sample,9390,x
+hardcore hip-hop,803,hardcore hip hop,14566,x
+instrumental hip-hop,678,instrumental hip hop,3017,x
+east coast hip-hop,614,east coast hip hop,24094,x
+drum n bass,593,drum and bass,7390,x
+drum & bass,553,drum and bass,7390,x
+brit pop,474,britpop,1173,x
+west coast hip-hop,468,east coast hip hop,24094,
+underground hip-hop,455,underground hip hop,10538,x
+plunderphonic,429,plunderphonics,1855,x
+contemporary r b,358,contemporary r&b,17854,x
+stage screen,351,stage & screen,4822,x
+alternative & punk,314,alternative punk,606,x
+rap & hip-hop,281,hip hop rap,17165,x
+rap hip hop,808,hip hop rap,17165,x
+samples,280,sample,9390,x
+gothic rock,269,goth rock,789,x
+psychadelic,263,psychedelic,5136,x
+instrumentals,262,instrumental,9971,x
+germany,252,german,632,x
+adult alternative rock,247,adult alternative pop rock,334,
+avantgarde,231,avant-garde,1349,x
+rock ballads,221,rock ballad,456,x
+euro-dance,219,eurodance,3247,x
+euro-pop,215,europop,3914,x
+boombap,214,boom bap,9086,x
+musicals,202,musical,1238,x
+male vocalist,202,female vocalists,486,
+futurefunk,200,future funk,1182,x
+modern jazz,196,modernjazz,477,x
+country-rock,190,country rock,1502,x
+rhythm blues,187,rhythm and blues,5209,x
+rhythm & blues,4246,rhythm and blues,5209,x
+chill wave,185,chillwave,1109,x
+conscious hip-hop,184,conscious hip hop,12297,x
+late night lofi,180,late night lo-fi,202,x
+ragga hiphop,176,ragga hip-hop,1469,x
+experimental hip-hop,175,experimental hip hop,1733,x
+jazz vocal,172,jazz vocals,640,x
+nu-disco,172,nu disco,1098,x
+glitch pop,171,glitch hop,427,x
+country-pop,167,country pop,316,x
+americana,166,american,3053,x
+midwest hip hop,164,midwestern hip hop,1153,x
+electro pop,160,electropop,3206,x
+blue eyed soul,156,blue-eyed soul,1374,x
+boom-bap,154,boom bap,9086,x
+club house,146,club-house,466,x
+synth wave,146,synthwave,504,x
+abstract hip-hop,139,abstract hip hop,982,x
+nudisco,136,nu disco,1098,x
+rap hip-hop,133,hip hop rap,17165,x
+rap hip hop,808,hip hop rap,17165,x
+euro pop,132,europop,3914,x
+show tunes,131,showtunes,364,x
+italodance,129,italo dance,807,x
+contemporary rnb,129,contemporary r&b,17854,x
+humour,128,humor,331,x
+retro wave,126,retrowave,141,x
+female vocal,125,female vocalists,486,x
+experiemental,124,experimental,12136,x
+dream,118,dreamy,590,x
+male vocalists,112,female vocalists,486,
+tape music,111,trap music,159,
+southern hip-hop,111,southern hip hop,5220,x
+dance rock,109,dance-rock,2509,x
+chill-out,104,chillout,2274,x
+techno pop,98,technopop,155,x
+afrobeats,97,afrobeat,895,x
+discoth que,96,discothèque,564,x
+synth punk,95,synth funk,1592,
+latinjazz,94,latin jazz,1620,x
+mash-up,94,mashup,740,x
+darkwave,94,dark wave,259,x
+trap metal,93,rap metal,357,
+composers,92,composer,1179,x
+videogame,91,video game,179,x
+soul funk,91,soulfunk,1791,x
+hip hop_hip-hop,87,hip hop,179889,x
+hip-hop_hip-hop,253,hip hop,179889,x
+rock n roll,84,rock and roll,5023,x
+funk - soul,83,funk soul,15312,x
+hip-hop. rap,81,hip hop rap,17165,x
+alternative-rock,77,alternative rock,12622,x
+girl-group,77,girl group,107,x
+detroit hip hop,77,detroit hip-hop,564,x
+jamaica,73,jamaican,213,x
+split me,71,splitme,79,x
+manchester,68,madchester,342,
+protopunk,67,proto-punk,306,x
+world fusion,66,world-fusion,81,x
+impressionist,66,impressionism,69,x
+guitar virtuoso,65,guitar-virtuoso,79,x
+british indie rock,65,british indie rock pop,331,
+beats.,65,beats,1954,x
+female vocals,65,female vocalists,486,x
+female vocalist,63,female vocalists,486,x
+instrumental-hip-hop,63,instrumental hip hop,3017,x
+hip hop instrumentals,242,instrumental hip hop,3017,x
+hip-hop instrumental,63,instrumental hip hop,3017,x
+triphop,60,trip hop,8979,x
