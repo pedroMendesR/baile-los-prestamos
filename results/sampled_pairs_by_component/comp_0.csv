@@ -1,0 +1,35 @@
+,key,release_year_from,database_artist_from,artist_country_from,database_artist_to,artist_country_to,tags_from,tags_to
+0,172741,2002,Racionais MC’s,Brazil,Cassiano,Brazil,"['gangsta rap', 'hip hop', 'latin']","['funk', 'latin', 'pop']"
+1,366924,2002,Racionais MC’s,Brazil,Almir Guineto,Brazil,"['gangsta rap', 'hip hop', 'latin']","['latin', 'samba', 'samba-canção']"
+2,62048,2002,Racionais MC’s,Brazil,Cassiano,Brazil,"['gangsta rap', 'hip hop', 'latin']","['disco', 'funk', 'latin']"
+3,1821,2003,DJ Marky,Brazil,Toquinho,Brazil,"['latin', 'drum and bass', 'electronic']","['bossa nova', 'latin', 'mpb']"
+4,453331,2003,Marcelo D2,Brazil,João Nogueira,Brazil,"['hip hop', 'latin', 'electronic', 'samba']",['samba']
+5,444605,2003,Marcelo D2,Brazil,João Nogueira,Brazil,"['brazilian', 'samba', 'latin']",['samba']
+6,444583,2003,Marcelo D2,Brazil,Marku Ribas,Brazil,"['brazilian', 'samba', 'latin']","['funk', 'jazz', 'latin', 'mpb', 'samba']"
+7,8729,2003,DJ Marky,Brazil,Gilberto Gil,Brazil,"['electronic', 'drum and bass', 'jungle', 'dance', 'edm']","['pop', 'mpb', 'brazilian', 'disco', 'bossa nova', 'latin']"
+8,94427,2004,Marcos Valle,Brazil,Marcos Valle,Brazil,"['?', 'acid jazz', 'disco', 'electronic', 'latin']","['latin', 'mpb', 'pop', 'bossa nova', 'soul', 'funk', 'jazz']"
+9,24647,2004,Marcelo D2,Brazil,Antônio Carlos e Jocáfi,Brazil,"['rap', 'hip hop', 'brazilian', 'samba', 'latin']","['latin', 'mpb', 'samba']"
+10,605830,2005,Rappin’ Hood,Brazil,Chico Buarque,Brazil,['hip hop'],"['jazz', 'mpb', 'brazilian', 'bossa nova', 'samba', 'latin', 'brazilian pop']"
+11,374678,2006,Criolo,Brazil,Maria Bethânia,Brazil,"['rap', 'hip hop', 'brazilian music']","['mpb', 'baroque pop', 'vocal jazz']"
+12,263841,2006,Marcelo D2,Brazil,Zimbo Trio,Brazil,"['hip hop', 'latin', 'samba']","['bossa nova', 'jazz', 'swing']"
+13,261859,2006,Marcelo D2,Brazil,Alcione,Brazil,"['hip hop', 'latin', 'samba']","['latin', 'samba']"
+14,334596,2006,Sérgio Mendes,Brazil,Sérgio Mendes & Brasil ’66,Brazil,"['pop', 'jazz', 'hip hop', 'brazilian', 'soul', 'bossa nova', 'latin pop', 'latin', 'latin jazz', 'r&b', 'contemporary r&b']","['jazz', 'easy listening', 'bossa nova', 'latin', 'latin jazz']"
+15,254746,2006,Sérgio Mendes,Brazil,Sérgio Mendes,Brazil,"['pop', 'jazz', 'hip hop', 'brazilian', 'bossa nova', 'latin', 'latin jazz', 'brazilian pop']","['bossa nova', 'latin jazz']"
+16,81452,2006,Rappin’ Hood,Brazil,Cartola,Brazil,"['bossa nova', 'broken beat', 'electronic', 'house', 'jazz', 'latin', 'latin jazz', 'mpb', 'samba']","['soundtrack', 'brazilian', 'samba', 'latin']"
+17,575013,2006,Marcelo D2,Brazil,Lincoln Olivetti,Brazil,"['hip hop', 'latin', 'samba']","['electronic', 'jazz']"
+18,294873,2006,Marcelo D2,Brazil,Gal Costa,Brazil,"['hip hop', 'latin', 'samba']","['latin', 'mpb', 'bossa nova', 'samba']"
+19,294868,2006,Marcelo D2,Brazil,Os Originais do Samba,Brazil,"['hip hop', 'latin', 'samba']",['samba']
+20,261776,2007,A286,Brazil,Trio Mocotó,Brazil,['hip hop'],"['mpb', 'samba', 'latin', 'bossa nova', 'electronic', 'funk', 'hip hop', 'house', 'afrobeat', 'timba', 'bachata', 'batucada']"
+21,343362,2007,A286,Brazil,Roberto Carlos,Brazil,['hip hop'],"['ballad', 'latin', 'mpb', 'pop', 'rock', 'soft rock', 'soul']"
+22,367330,2007,Negra Li,Brazil,Marisa Monte,Brazil,"['contemporary r&b', 'hip hop']","['jazz', 'mpb', 'brazilian', 'bossa nova', 'jazz-funk', 'latin', 'latin jazz', 'brazilian pop']"
+23,364369,2007,A286,Brazil,Zé Ramalho,Brazil,['hip hop'],"['mpb', 'brazilian']"
+24,509444,2008,Kamau,Brazil,Raul de Souza,Brazil,"['electronic', 'hip hop']","['electronic', 'funk', 'fusion', 'jazz', 'jazz-funk', 'latin jazz']"
+25,384570,2009,Emicida,Brazil,Nelson Sargento,Brazil,"['soundtrack', 'rap', 'hip hop', 'brazilian', 'game', 'video game', 'rapper', 'vgm', 'mc', 'a rua é noiz', 'laboratório fantasma']","['latin', 'samba']"
+26,582841,2009,Emicida,Brazil,Caetano Veloso,Brazil,"['soundtrack', 'rap', 'hip hop', 'brazilian', 'game', 'video game', 'rapper', 'vgm', 'mc', 'a rua é noiz', 'laboratório fantasma']","['latin', 'mpb', 'bossa nova', 'pop']"
+27,346708,2010,Sérgio Mendes,Brazil,Sérgio Mendes & Brasil ’66,Brazil,"['bossa nova', 'electronic', 'latin', 'samba']","['jazz', 'easy listening', 'bossa nova']"
+28,166576,2010,Tulipa Ruiz,Brazil,Caetano Veloso,Brazil,"['mpb', 'brazilian', 'latin']",['mpb']
+29,346707,2010,Sérgio Mendes,Brazil,Sérgio Mendes & Brasil ’66,Brazil,"['bossa nova', 'electronic', 'latin', 'samba']","['jazz', 'latin jazz', 'brazilian', 'bossa nova', 'latin']"
+30,346706,2010,Sérgio Mendes,Brazil,Gilberto Gil,Brazil,"['bossa nova', 'electronic', 'latin', 'samba']","['electronic', 'experimental', 'latin', 'rock']"
+31,346702,2010,Sérgio Mendes,Brazil,Antônio Carlos Jobim,Brazil,"['bossa nova', 'electronic', 'latin', 'samba']",['latin']
+32,630154,2010,3030,Brazil,Wilson Simonal,Brazil,"['rap', 'reggae', 'urban', 'conscious hip hop', 'brazilian hip hop']","['mpb', 'bossa nova', 'samba soul']"
+33,574762,2010,Emicida,Brazil,Racionais MC’s,Brazil,"['soundtrack', 'rap', 'hip hop', 'brazilian', 'game', 'video game', 'rapper', 'vgm', 'mc', 'a rua é noiz', 'laboratório fantasma']","['hip hop', 'latin']"

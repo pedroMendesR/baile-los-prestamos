@@ -72,4 +72,4 @@ Consult the `parafac_LA.ipynb` to reproduce our analysis steps.
 
 ## 5. Additional Plots can be found in `/results`
 
-![All decomposition temporal plots](./results/parafac_LA_4years.png)
+![All decomposition temporal plots](./results/all_components.png)
